@@ -1,7 +1,7 @@
 ## Hi there, I'm Sonali singh 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Data+Scientist+%7C+Kaggle+Master+(Rank+109);8+Years+in+Finance+%26+Healthcare;Python%2C+SQL%2C+GenAI%2C+ML%2C+Power+BI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Data+Scientist+%7C+Kaggle+Master+(Rank+109);8%2B+Years+Exp+in+Finance+%26+Healthcare;Python%2C+SQL%2C+GenAI%2C+ML%2C+Power+BI" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -11,49 +11,13 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+In the world of data science, technical skill is common, but the ability to drive business value is rare. As a *𝘒𝘢𝘨𝘨𝘭𝘦 𝘔𝘢𝘴𝘵𝘦𝘳 (𝘙𝘢𝘯𝘬 109)* and *𝘋𝘢𝘵𝘢 𝘚𝘤𝘪𝘦𝘯𝘵𝘪𝘴𝘵 𝘸𝘪𝘵𝘩 𝘰𝘷𝘦𝘳 8 𝘺𝘦𝘢𝘳𝘴 𝘰𝘧 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦*, I specialize in bridging that gap—turning complex datasets into clear, actionable strategies for the *𝘐𝘯𝘴𝘶𝘳𝘢𝘯𝘤𝘦, 𝘍𝘪𝘯𝘢𝘯𝘤𝘦, 𝘢𝘯𝘥 𝘏𝘦𝘢𝘭𝘵𝘩𝘤𝘢𝘳𝘦* sectors.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+**How I Deliver Value:**
+**📊𝐏𝐫𝐞𝐝𝐢𝐜𝐭𝐢𝐯𝐞 𝐌𝐨𝐝𝐞𝐥𝐢𝐧𝐠:** leveraging 𝘢𝘥𝘷𝘢𝘯𝘤𝘦𝘥 𝘴𝘵𝘢𝘵𝘪𝘴𝘵𝘪𝘤𝘴 to forecast trends and mitigate risk.
+**🚀𝐄𝐧𝐝-𝐭𝐨-𝐄𝐧𝐝 𝐏𝐢𝐩𝐞𝐥𝐢𝐧𝐞𝐬:** Building robust architectures using 𝘗𝘺𝘵𝘩𝘰𝘯, 𝘚𝘘𝘓, 𝘢𝘯𝘥 𝘗𝘰𝘸𝘦𝘳 𝘉𝘐.
+**🏆𝐈𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐨𝐧:** Integrating 𝘎𝘦𝘯𝘈𝘐 𝘢𝘯𝘥 𝘔𝘢𝘤𝘩𝘪𝘯𝘦 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 to solve complex business problems.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+I am passionate about the future of AI—specifically Deep Learning and Big Data—and am constantly seeking innovative projects that challenge the status quo.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
-      
-## 🔭 What I'm Currently Working On 
-
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
-
-## 🌱 Currently Learning 
-
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
-
-## 🛠️ Technical Skillset
-
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
-
-#### Data Analysis & Visualization
-<p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
-</p>
-
-#### Programming & Automation
-<p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-</p>
-
-#### Business Intelligence & Analytics
-<p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
-</p>
+**🚀 𝐋𝐞𝐭’𝐬 𝐬𝐨𝐥𝐯𝐞 𝐲𝐨𝐮𝐫 𝐝𝐚𝐭𝐚 𝐜𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞𝐬.**
