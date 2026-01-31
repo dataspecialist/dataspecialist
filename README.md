@@ -1,12 +1,13 @@
 ## Hi there, I'm Sonali singh 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Data+Scientist+%7C+Kaggle+Master+(Rank+109);alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Data+Scientist+%7C+Kaggle+Master+(Rank+109+over+60k)" alt="Data Scientist Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sonali-datascientist/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.kaggle.com/sonalisingh1411"><img src="https://img.shields.io/badge/Kaggle-Master-20BEFF?style=for-the-badge&logo=kaggle"></a>
   <a href="mailto:data.specialist@yahoo.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
@@ -15,11 +16,11 @@ In the world of data science, technical skill is common, but the ability to driv
 
 **How I Deliver Value:**
 
-**📊𝐏𝐫𝐞𝐝𝐢𝐜𝐭𝐢𝐯𝐞 𝐌𝐨𝐝𝐞𝐥𝐢𝐧𝐠:** leveraging 𝘢𝘥𝘷𝘢𝘯𝘤𝘦𝘥 𝘴𝘵𝘢𝘵𝘪𝘴𝘵𝘪𝘤𝘴 to forecast trends and mitigate risk.
+📊**𝐏𝐫𝐞𝐝𝐢𝐜𝐭𝐢𝐯𝐞 𝐌𝐨𝐝𝐞𝐥𝐢𝐧𝐠:** leveraging 𝘢𝘥𝘷𝘢𝘯𝘤𝘦𝘥 𝘴𝘵𝘢𝘵𝘪𝘴𝘵𝘪𝘤𝘴 to forecast trends and mitigate risk.
 
-**🚀𝐄𝐧𝐝-𝐭𝐨-𝐄𝐧𝐝 𝐏𝐢𝐩𝐞𝐥𝐢𝐧𝐞𝐬:** Building robust architectures using 𝘗𝘺𝘵𝘩𝘰𝘯, 𝘚𝘘𝘓, 𝘢𝘯𝘥 𝘗𝘰𝘸𝘦𝘳 𝘉𝘐.
+🚀**𝐄𝐧𝐝-𝐭𝐨-𝐄𝐧𝐝 𝐏𝐢𝐩𝐞𝐥𝐢𝐧𝐞𝐬:** Building robust architectures using 𝘗𝘺𝘵𝘩𝘰𝘯, 𝘚𝘘𝘓, 𝘢𝘯𝘥 𝘗𝘰𝘸𝘦𝘳 𝘉𝘐.
 
-**🏆𝐈𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐨𝐧:** Integrating 𝘎𝘦𝘯𝘈𝘐 𝘢𝘯𝘥 𝘔𝘢𝘤𝘩𝘪𝘯𝘦 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 to solve complex business problems.
+🏆**𝐈𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐨𝐧:** Integrating 𝘎𝘦𝘯𝘈𝘐 𝘢𝘯𝘥 𝘔𝘢𝘤𝘩𝘪𝘯𝘦 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 to solve complex business problems.
 
 I am passionate about the future of AI—specifically Deep Learning and Big Data—and am constantly seeking innovative projects that challenge the status quo.
 
