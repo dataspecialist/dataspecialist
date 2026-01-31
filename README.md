@@ -1,7 +1,7 @@
 ## Hi there, I'm Sonali singh 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Data+Scientist+%7C+Kaggle+Master+(Rank+109+over+60k)" alt="Data Scientist Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Data+Scientist+%7C+Kaggle+Master+(Rank+109)" alt="Data Scientist Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
