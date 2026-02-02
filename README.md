@@ -1,11 +1,9 @@
 ## Hi there, I'm Sonali singh 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Data+Scientist+%7C+Kaggle+Master+(Rank+109)" alt="Data Scientist|Kaggle Master Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=A+Data+Scientist+%7C+Kaggle+Master+(Rank+109)" alt="Data Scientist|Kaggle Master Typing SVG" />
 </div>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=End+to+End+PowerBI+Projects" alt="End to End PowerBI Project Typing SVG" />
-</div>
+
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sonali-datascientist/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
@@ -14,16 +12,22 @@
 </p>
 
 ## 🚀 About Me 
-In the world of data science, technical skill is common, but the ability to drive business value is rare. As a 𝘒𝘢𝘨𝘨𝘭𝘦 𝘔𝘢𝘴𝘵𝘦𝘳 (𝘙𝘢𝘯𝘬 109) and 𝘋𝘢𝘵𝘢 𝘚𝘤𝘪𝘦𝘯𝘵𝘪𝘴𝘵 𝘸𝘪𝘵𝘩 𝘰𝘷𝘦𝘳 8 𝘺𝘦𝘢𝘳𝘴 𝘰𝘧 𝘦𝘹𝘱𝘦𝘳𝘪𝘦𝘯𝘤𝘦, I specialize in bridging that gap—turning complex datasets into clear, actionable strategies for the 𝘐𝘯𝘴𝘶𝘳𝘢𝘯𝘤𝘦, 𝘍𝘪𝘯𝘢𝘯𝘤𝘦, 𝘢𝘯𝘥 𝘏𝘦𝘢𝘭𝘵𝘩𝘤𝘢𝘳𝘦 sectors.
+As a **Data Scientist** and **Kaggle Master (Rank 109)**, I don't just visualize data; I solve business problems. Every project here follows a structured "Data-to-Decision" framework:
+1.  **Semantic Modeling:** Cleaning, transforming, and modeling raw data.
+2.  **Advanced DAX:** Creating dynamic measures for complex calculations.
+3.  **Storytelling:** Designing dashboards that drive decision-making.
+4.  **Business Impact:** Identifying the "So What?" and recommending strategic actions. 
 
-**How I Deliver Value:**
+### 🛠️ Tech Stack & Skills
+* **Core:** Power BI Desktop, Power BI Service, DAX, Power Query (M).
+* **Data Sources:** SQL, Excel, CSV, Web APIs.
+* **Focus Areas:** Healthcare & Life Sciences, Finance & Banking, Retail & E-commerce, Marketing & Consumer Analytics.
+  
+### 📂 Featured Projects
+| Project Name | Domain |
+| :--- | :--- |
+| **[Blinkit Sales Analysis](https://github.com/dataspecialist/QuickCommerce-SalesAnalysis)** | Quick Commerce |
 
-📊**Predictive Modeling:** leveraging 𝘢𝘥𝘷𝘢𝘯𝘤𝘦𝘥 𝘴𝘵𝘢𝘵𝘪𝘴𝘵𝘪𝘤𝘴 to forecast trends and mitigate risk.
-
-🚀**End-to-End Pipelines:** Building robust architectures using 𝘗𝘺𝘵𝘩𝘰𝘯, 𝘚𝘘𝘓, 𝘢𝘯𝘥 𝘗𝘰𝘸𝘦𝘳 𝘉𝘐.
-
-🏆**Innocation:** Integrating 𝘎𝘦𝘯𝘈𝘐 𝘢𝘯𝘥 𝘔𝘢𝘤𝘩𝘪𝘯𝘦 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨 to solve complex business problems.
-
-I am passionate about the future of AI—specifically Deep Learning and Big Data—and am constantly seeking innovative projects that challenge the status quo.
-
-🚀 𝐋𝐞𝐭’𝐬 𝐬𝐨𝐥𝐯𝐞 𝐲𝐨𝐮𝐫 𝐝𝐚𝐭𝐚 𝐜𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞𝐬.
+<div align="center">
+ <p><i>🤝Open to collaboration on Data Science & BI initiatives.</i></p>
+</div>
