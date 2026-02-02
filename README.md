@@ -26,4 +26,4 @@ In the world of data science, technical skill is common, but the ability to driv
 
 I am passionate about the future of AI—specifically Deep Learning and Big Data—and am constantly seeking innovative projects that challenge the status quo.
 
-**🚀 𝐋𝐞𝐭’𝐬 𝐬𝐨𝐥𝐯𝐞 𝐲𝐨𝐮𝐫 𝐝𝐚𝐭𝐚 𝐜𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞𝐬.**
+🚀 𝐋𝐞𝐭’𝐬 𝐬𝐨𝐥𝐯𝐞 𝐲𝐨𝐮𝐫 𝐝𝐚𝐭𝐚 𝐜𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞𝐬.
