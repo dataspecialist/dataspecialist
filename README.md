@@ -26,7 +26,8 @@ As a **Data Scientist** and **Kaggle Master (Rank 109)**, I don't just visualize
 ### 📂 Featured Projects
 | Project Name | Domain |
 | :--- | :--- |
-| **[Blinkit Sales Analysis](https://github.com/dataspecialist/QuickCommerce-SalesAnalysis)** | Quick Commerce |
+| **[Blinkit Sales Analysis](https://github.com/dataspecialist/QuickCommerce-SalesAnalysis)** | Quick Commerce Analysis |
+| **[Customer-Churn-Analysis](https://github.com/dataspecialist/Customer-Churn-Analysis)** | Customer Churn Analysis |
 
 <div align="center">
  <p><i>🤝Open to collaboration on Data Science & BI initiatives.</i></p>
