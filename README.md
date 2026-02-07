@@ -12,7 +12,7 @@
 </p>
 
 ## 🚀 About Me 
-As a **Data Scientist** and **Kaggle Master (Rank 109)**, I don't just visualize data; I solve business problems. Every project here follows a structured "Data-to-Decision" framework:
+As a **Data Scientist** and **Kaggle Master (Rank 109)**, I go beyond data visualization to solve concrete business problems. This collection showcases my **Power BI dashboards**, where every project is built upon a structured 'Data-to-Decision' framework.
 1.  **Semantic Modeling:** Cleaning, transforming, and modeling raw data.
 2.  **Advanced DAX:** Creating dynamic measures for complex calculations.
 3.  **Storytelling:** Designing dashboards that drive decision-making.
