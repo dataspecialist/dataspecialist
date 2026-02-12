@@ -28,7 +28,7 @@ As a **Data Scientist** and **Kaggle Master (Rank 109)**, I go beyond data visua
 | :--- | :--- |
 | **[Blinkit Sales Analysis](https://github.com/dataspecialist/QuickCommerce-SalesAnalysis)** | Quick Commerce Analysis |
 | **[Customer Churn Analysis](https://github.com/dataspecialist/Customer-Churn-Analysis)** | Customer Churn Analysis |
-| **[Marketing Analysis](https://github.com/dataspecialist/Marketing-analysis/tree/main)** | Marketing Analysis |
+| **[Meta FB&Instagram Marketing campaigns Analysis](https://github.com/dataspecialist/Marketing-analysis/tree/main)** | Marketing Analysis |
 
 <div align="center">
  <p><i>🤝Open to collaboration on Data Science & BI initiatives.</i></p>
