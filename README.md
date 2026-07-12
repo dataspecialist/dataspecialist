@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sonali-datascientist/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://www.kaggle.com/sonalisingh1411"><img src="https://img.shields.io/badge/Kaggle-connect-20BEFF?style=for-the-badge&logo=kaggle"></a>
-  <a href="mailto:data.specialist@yahoo.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+<a href="mailto:sonali.ds@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=outlook" alt="Email Contact" /></a>
 </p>
 
 ## 🚀 About Me 
