@@ -1,7 +1,7 @@
 ## Hi there, I'm Sonali singh 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=A+Data+Scientist+%7C+Kaggle+Master+(Rank+109)" alt="Data Scientist|Kaggle Master Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=A+Senior+Data+Scientist+%7C+Kaggle+Master" alt="Data Scientist|Kaggle Master Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -12,7 +12,7 @@
 </p>
 
 ## 🚀 About Me 
-As a **Data Scientist** and **Kaggle Master (Rank 109)**, I go beyond data visualization to solve concrete business problems. This collection showcases my **Power BI dashboards**, where every project is built upon a structured 'Data-to-Decision' framework.
+As a **Senior Data Scientist** working at **Maybank** and **Kaggle Master (Rank 109)**, I go beyond data visualization to solve concrete business problems. This collection showcases my **Power BI dashboards**, where every project is built upon a structured 'Data-to-Decision' framework.
 1.  **Semantic Modeling:** Cleaning, transforming, and modeling raw data.
 2.  **Advanced DAX:** Creating dynamic measures for complex calculations.
 3.  **Storytelling:** Designing dashboards that drive decision-making.
